@@ -64,7 +64,7 @@ It helps HR departments understand turnover patterns, identify risk factors, and
 
 ## 🖼 Dashboard Preview
 >
-![HR Analytics Dashboard](https://github.com/ABH1516/HR_Analytics_Dashboard/blob/main/Hr_analytics_dashboard.png)
+![HR Analytics Dashboard](https://github.com/ABH1516/HR_Analytics_Dashboard/blob/main/Hr_analytics_dashboard_1.png)
 
 ---
 
